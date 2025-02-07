@@ -1,0 +1,6 @@
+alembic
+SQLAlchemy
+flask
+psycopg2-binary
+ 
+
