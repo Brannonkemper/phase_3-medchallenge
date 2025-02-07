@@ -48,7 +48,7 @@ MediVerse is a Command-Line Interface (CLI) application that simplifies and cent
    ```bash
    pip install -r requirements.txt
    ```
-   Ensure you add to the requirement.txt
+   Ensure you add to the requirement.txt if they are not there
     alembic
      SQLAlchemy
     flask
